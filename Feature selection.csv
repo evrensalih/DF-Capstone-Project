@@ -1,0 +1,13 @@
+Feature,Linear Regression,Decision Tree,Random Forest
+Bicep,Worse,Better,Better
+Hip,N/A,Better,Better
+Weight,Worse,Worse,Worse
+Abdomen,Worse,Worse,Worse
+Chest,Better,N/A,Better
+Forearm,Worse,N/A,Better
+Ankle,Worse,N/A,Better
+Wrist,Worse,Better,Worse
+Thigh,Worse,Worse,Worse
+Knee,N/A,Better,Better
+Neck,Worse,Worse,Worse
+Age,N/A,N/A,Better
